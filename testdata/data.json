@@ -1,0 +1,8 @@
+{
+    "string":"string",
+    "int":1,
+    "nested": {
+	"string":"nested_string",
+	"int":2
+    }
+}
